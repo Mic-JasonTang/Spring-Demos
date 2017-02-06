@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-Annotation/Spring-Annotation.iml" filepath="$PROJECT_DIR$/Spring-Annotation/Spring-Annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Async/Spring-Async.iml" filepath="$PROJECT_DIR$/Spring-Async/Spring-Async.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Conditional/Spring-Conditional.iml" filepath="$PROJECT_DIR$/Spring-Conditional/Spring-Conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Demos.iml" filepath="$PROJECT_DIR$/Spring-Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Event/Spring-Event.iml" filepath="$PROJECT_DIR$/Spring-Event/Spring-Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Profile/Spring-Profile.iml" filepath="$PROJECT_DIR$/Spring-Profile/Spring-Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-Scheduling/Spring-Scheduling.iml" filepath="$PROJECT_DIR$/Spring-Scheduling/Spring-Scheduling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC-Basic/SpringMVC-Basic.iml" filepath="$PROJECT_DIR$/SpringMVC-Basic/SpringMVC-Basic.iml" />
+    </modules>
+  </component>
+</project>

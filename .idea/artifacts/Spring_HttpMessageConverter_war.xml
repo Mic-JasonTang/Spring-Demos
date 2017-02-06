@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Spring-HttpMessageConverter:war">
+    <output-path>$PROJECT_DIR$/Spring-HttpMessageConverter/target</output-path>
+    <root id="archive" name="Spring-HttpMessageConverter.war">
+      <element id="artifact" artifact-name="Spring-HttpMessageConverter:war exploded" />
+    </root>
+  </artifact>
+</component>
